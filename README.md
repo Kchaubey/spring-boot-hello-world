@@ -52,4 +52,3 @@ docker login
 docker tag hello-world-spring-boot kimb88/hello-world-spring-boot
 docker push kimb88/hello-world-spring-boot
 ```
-
