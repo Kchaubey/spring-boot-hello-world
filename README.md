@@ -1,4 +1,4 @@
-# Spring Boot Hello World api
+# Spring Boot Hello World API
 
 This is a Spring-Boot Hello World application to demonstrate a quick and simple API.
 
